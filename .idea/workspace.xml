@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a5ef23b0-61d2-4af2-8f34-d2e3c3e7ed68" name="Changes" comment="7. 고급 매핑">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jpashop/JpaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jpashop/JpaMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +93,8 @@
       <workItem from="1700641120409" duration="690000" />
       <workItem from="1700923941047" duration="619000" />
       <workItem from="1701007942085" duration="1167000" />
+      <workItem from="1701183370559" duration="793000" />
+      <workItem from="1701442533825" duration="65000" />
     </task>
     <task id="LOCAL-00001" summary="4. 엔티티 매핑">
       <created>1699513346317</created>
@@ -142,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701008086549</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="7. 고급 매핑">
+      <created>1701183555950</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1701183555950</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

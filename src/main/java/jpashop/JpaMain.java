@@ -26,10 +26,6 @@ public class JpaMain {
             book.setName("리버풀");
             book.setAuthor("클롭");
 
-            Book book2 = new Book();
-            book2.setName("맨시티");
-            book2.setAuthor("펩");
-
             em.persist(book);
             //em.persist(book2);
 

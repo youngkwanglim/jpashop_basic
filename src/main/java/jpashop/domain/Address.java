@@ -30,18 +30,6 @@ public class Address {
         return zipcode;
     }
 
-    private void setCity(String city) {
-        this.city = city;
-    }
-
-    private void setStreet(String street) {
-        this.street = street;
-    }
-
-    private void setZipcode(String zipcode) {
-        this.zipcode = zipcode;
-    }
-
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;

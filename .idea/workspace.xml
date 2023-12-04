@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5ef23b0-61d2-4af2-8f34-d2e3c3e7ed68" name="Changes" comment="8. 프록시와 연관관계 관리">
-      <change afterPath="$PROJECT_DIR$/src/main/java/jpashop/domain/Address.java" afterDir="false" />
+    <list default="true" id="a5ef23b0-61d2-4af2-8f34-d2e3c3e7ed68" name="Changes" comment="9. 값 타입">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jpashop/domain/Delivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jpashop/domain/Delivery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jpashop/domain/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jpashop/domain/Member.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +96,7 @@
       <workItem from="1701442533825" duration="205000" />
       <workItem from="1701505625058" duration="874000" />
       <workItem from="1701528601766" duration="2911000" />
-      <workItem from="1701610517429" duration="592000" />
+      <workItem from="1701610517429" duration="2667000" />
     </task>
     <task id="LOCAL-00001" summary="4. 엔티티 매핑">
       <created>1699513346317</created>
@@ -178,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701536548769</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="9. 값 타입">
+      <created>1701611344958</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1701611344958</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +194,7 @@
     <MESSAGE value="6. 다양한 연관관계 매핑" />
     <MESSAGE value="7. 고급 매핑" />
     <MESSAGE value="8. 프록시와 연관관계 관리" />
-    <option name="LAST_COMMIT_MESSAGE" value="8. 프록시와 연관관계 관리" />
+    <MESSAGE value="9. 값 타입" />
+    <option name="LAST_COMMIT_MESSAGE" value="9. 값 타입" />
   </component>
 </project>
